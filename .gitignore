@@ -1,0 +1,12 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.bak
+obj/
+bin/
+
+# JavaScript/TypeScript
+node_modules/
+dist/

@@ -1,7 +1,6 @@
 # Kata Solutions
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-[![pt-fr](https://img.shields.io/badge/lang-fr--fr-blue.svg)](README.fr-fr.md)
+[![fr-fr](https://img.shields.io/badge/lang-fr--fr-blue.svg)](README.fr-fr.md)
 
 Welcome to my Kata Solutions repository! This repository serves as my training ground for solving coding challenges in both JavaScript and C#. It's a place where I can practice and improve my programming skills.
 
