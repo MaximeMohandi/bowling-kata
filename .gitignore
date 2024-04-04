@@ -1,12 +1,10 @@
-# .NET
-*.dll
-*.exe
-*.pdb
-*.userprefs
-*.bak
-obj/
-bin/
+/.idea/
+/.vscode/
+/dist/
+/node_modules/
+/tmp/
 
-# JavaScript/TypeScript
-node_modules/
-dist/
+**/.npm/
+
+tsconfig.tsbuildinfo
+.tmp_*
